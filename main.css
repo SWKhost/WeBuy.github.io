@@ -147,10 +147,11 @@ nav ul li a {
 	width: 100%;
 }
 footer {
-	/* Container for footer artices */
-	width: 71%;
-	padding-left: 2%;
-	padding-right: 2%;
+    /* Container for footer artices */
+    width: 71%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
 }
 .notOnDesktop {
 	/*element to be displayed only in mobile view and tabet view */
